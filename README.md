@@ -1,14 +1,14 @@
-# 🌬️ Wind Turbines in the U.S.  
+# Wind Turbines in the U.S.  
 **Data Analysis & Visualization Capstone Project**
 
-## 📌 Problem Statement
+## Problem Statement
 
 This project explores wind turbine data across the U.S. to uncover trends in turbine distribution, capacity, and technological growth. 
 The main goal is to understand how wind energy infrastructure has evolved regionally and nationally, using clear analysis and visual storytelling.
 
 ---
 
-## 🔍 Project Workflow
+## Project Workflow
 
 ### 1. Data Collection
 
@@ -32,16 +32,18 @@ The main goal is to understand how wind energy infrastructure has evolved region
 ### 4. Visualizations
 
 | Visualization | Description |
-|---------------|-------------|
-|![image](https://github.com/user-attachments/assets/ec8eec0a-22b7-4ed3-a03a-e686f64063da)
+|![image](https://github.com/user-attachments/assets/ec8eec0a-22b7-4ed3-a03a-e686f64063da) |
 | Annual growth of turbine installations |
-| ![image](https://github.com/user-attachments/assets/58f9fc8a-8b5f-40f0-ac31-5e4f2e9e5ba7)
+| ![image](https://github.com/user-attachments/assets/58f9fc8a-8b5f-40f0-ac31-5e4f2e9e5ba7) |
 | States with the most turbines |
-| ![image](https://github.com/user-attachments/assets/854a704f-e813-406c-8044-15db5b6c4593)
+| ![image](https://github.com/user-attachments/assets/854a704f-e813-406c-8044-15db5b6c4593) |
 | Average rated capacity over time |
-|![image](https://github.com/user-attachments/assets/6c6c308a-8c2a-47ca-b167-a15523b74cba)
+|![image](https://github.com/user-attachments/assets/6c6c308a-8c2a-47ca-b167-a15523b74cba) |
 | Changes in hub height by year |
-| 🌐 [**Interactive Map of Wind Turbines**](https://musical-sprinkles-61bd91.netlify.app/) | Interactive Bokeh map displaying turbine locations and details |
+|![image](https://github.com/user-attachments/assets/3f71f76a-3b58-45d4-958f-fa658273c043) |
+| Wind Turbine Locations |
+| ![image](https://github.com/user-attachments/assets/7ef07d3a-9581-4ee3-897a-7638570eb746)
+ [**Interactive Map of Wind Turbines**](https://musical-sprinkles-61bd91.netlify.app/) | Interactive Bokeh map displaying turbine locations and details |
 
 
 All plots were created using `Matplotlib`, `Seaborn`, and `Bokeh` for interactive visuals.

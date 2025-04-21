@@ -33,16 +33,11 @@ The main goal is to understand how wind energy infrastructure has evolved region
 
 | Visualization | Description |
 |---------------|-------------|
-|![image](https://github.com/user-attachments/assets/ec8eec0a-22b7-4ed3-a03a-e686f64063da) |
-| Annual growth of turbine installations |
-| ![image](https://github.com/user-attachments/assets/58f9fc8a-8b5f-40f0-ac31-5e4f2e9e5ba7) |
-| States with the most turbines |
-| ![image](https://github.com/user-attachments/assets/854a704f-e813-406c-8044-15db5b6c4593) |
-| Average rated capacity over time |
-|![image](https://github.com/user-attachments/assets/6c6c308a-8c2a-47ca-b167-a15523b74cba) |
-| Changes in hub height by year |
-|![image](https://github.com/user-attachments/assets/3f71f76a-3b58-45d4-958f-fa658273c043) |
-| Wind Turbine Locations |
+|![image](https://github.com/user-attachments/assets/ec8eec0a-22b7-4ed3-a03a-e686f64063da) | Annual growth of turbine installations |
+| ![image](https://github.com/user-attachments/assets/58f9fc8a-8b5f-40f0-ac31-5e4f2e9e5ba7) | States with the most turbines |
+| ![image](https://github.com/user-attachments/assets/854a704f-e813-406c-8044-15db5b6c4593) | Average rated capacity over time |
+|![image](https://github.com/user-attachments/assets/6c6c308a-8c2a-47ca-b167-a15523b74cba) | Changes in hub height by year |
+|![image](https://github.com/user-attachments/assets/3f71f76a-3b58-45d4-958f-fa658273c043) | Wind Turbine Locations |
 | ![image](https://github.com/user-attachments/assets/7ef07d3a-9581-4ee3-897a-7638570eb746)
  [**Interactive Map of Wind Turbines**](https://musical-sprinkles-61bd91.netlify.app/) | Interactive Bokeh map displaying turbine locations and details |
 
@@ -51,7 +46,7 @@ All plots were created using `Matplotlib`, `Seaborn`, and `Bokeh` for interactiv
 
 ---
 
-## 💡 Insights
+## Insights
 
 - **Texas** leads with the highest number of installed turbines.
 - Newer turbines are **taller** and have **greater capacity**, showing technological advancements.
@@ -60,7 +55,7 @@ All plots were created using `Matplotlib`, `Seaborn`, and `Bokeh` for interactiv
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python Libraries**: Pandas, NumPy, Seaborn, Matplotlib, Bokeh  
 - **Notebook Platform**: Jupyter Notebook  
@@ -70,7 +65,7 @@ All plots were created using `Matplotlib`, `Seaborn`, and `Bokeh` for interactiv
 
 ---
 
-## 🖥️ Recommendations
+## Recommendations
 
 - Transform this into a **dashboard** using **Tableau** or **Power BI**.
 - Combine with **weather or energy output data** for predictive modeling.
@@ -78,7 +73,7 @@ All plots were created using `Matplotlib`, `Seaborn`, and `Bokeh` for interactiv
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - [`Wind_Turbines_in_the_U_S.ipynb`](Wind_Turbines_in_the_U_S.ipynb): Full analysis notebook  
 - `figures/`: Visuals generated from the notebook  
@@ -86,7 +81,7 @@ All plots were created using `Matplotlib`, `Seaborn`, and `Bokeh` for interactiv
 
 ---
 
-## 📚 Sources
+## Sources
 
 - U.S. Wind Turbine Database – [https://eerscmap.usgs.gov/uswtdb](https://eerscmap.usgs.gov/uswtdb)
 - U.S. Geological Survey (USGS)
@@ -95,5 +90,5 @@ All plots were created using `Matplotlib`, `Seaborn`, and `Bokeh` for interactiv
 ---
 
 Created by [Mariia-Olena Zhupnyk](https://github.com/helenzhupnyk)  
-🚀 Capstone project for portfolio – April 2025  
-🎓 Internship project for M2M Tech’s Data Talent Program
+Capstone project for portfolio – April 2025  
+Internship project for M2M Tech’s Data Talent Program

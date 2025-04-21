@@ -32,6 +32,7 @@ The main goal is to understand how wind energy infrastructure has evolved region
 ### 4. Visualizations
 
 | Visualization | Description |
+|---------------|-------------|
 |![image](https://github.com/user-attachments/assets/ec8eec0a-22b7-4ed3-a03a-e686f64063da) |
 | Annual growth of turbine installations |
 | ![image](https://github.com/user-attachments/assets/58f9fc8a-8b5f-40f0-ac31-5e4f2e9e5ba7) |

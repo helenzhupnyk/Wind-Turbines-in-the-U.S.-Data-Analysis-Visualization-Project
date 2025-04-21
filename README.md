@@ -38,8 +38,7 @@ The main goal is to understand how wind energy infrastructure has evolved region
 | ![image](https://github.com/user-attachments/assets/854a704f-e813-406c-8044-15db5b6c4593) | Average rated capacity over time |
 |![image](https://github.com/user-attachments/assets/6c6c308a-8c2a-47ca-b167-a15523b74cba) | Changes in hub height by year |
 |![image](https://github.com/user-attachments/assets/3f71f76a-3b58-45d4-958f-fa658273c043) | Wind Turbine Locations |
-| ![image](https://github.com/user-attachments/assets/7ef07d3a-9581-4ee3-897a-7638570eb746)
- [**Interactive Map of Wind Turbines**](https://musical-sprinkles-61bd91.netlify.app/) | Interactive Bokeh map displaying turbine locations and details |
+| ![image](https://github.com/user-attachments/assets/7ef07d3a-9581-4ee3-897a-7638570eb746) [**Interactive Map of Wind Turbine Capacity by State (% of Total)**](https://musical-sprinkles-61bd91.netlify.app/) | Interactive Bokeh map displaying Wind Turbine Capacity by State (% of Total) |
 
 
 All plots were created using `Matplotlib`, `Seaborn`, and `Bokeh` for interactive visuals.
@@ -73,19 +72,18 @@ All plots were created using `Matplotlib`, `Seaborn`, and `Bokeh` for interactiv
 
 ---
 
-## Project Structure
+## Project 
 
 - [`Wind_Turbines_in_the_U_S.ipynb`](Wind_Turbines_in_the_U_S.ipynb): Full analysis notebook  
-- `figures/`: Visuals generated from the notebook  
-- `data/`: Raw dataset (locally stored)
 
 ---
 
 ## Sources
 
-- U.S. Wind Turbine Database – [https://eerscmap.usgs.gov/uswtdb](https://eerscmap.usgs.gov/uswtdb)
-- U.S. Geological Survey (USGS)
-- American Wind Energy Association (AWEA)
+- [US GeoJSON source](https://eric.clst.org/tech/usgeojson/)
+- [CORGIS - Wind Turbines Dataset](https://corgis-edu.github.io/corgis/csv/wind_turbines/)
+- [Bokeh docs on mapping geo data](https://docs.bokeh.org/en/latest/docs/user_guide/geo.html)
+- [Published Interactive Visualization on Netlify](https://your-netlify-site.netlify.app)  
 
 ---
 
